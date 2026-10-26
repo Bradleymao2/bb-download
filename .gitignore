@@ -1,0 +1,22 @@
+# runtime state produced by the scripts (never commit)
+_bb_sync/
+
+# node
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# python
+__pycache__/
+*.pyc
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# scratch
+*.log
+*.tmp
+*.part

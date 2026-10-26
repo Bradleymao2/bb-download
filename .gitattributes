@@ -1,0 +1,6 @@
+# Keep script line endings sane across platforms
+* text=auto
+*.ps1 text eol=crlf
+*.mjs text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
